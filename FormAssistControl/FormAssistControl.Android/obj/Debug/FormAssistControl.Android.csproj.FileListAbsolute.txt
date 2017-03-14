@@ -81,5 +81,5 @@ c:\users\lai\documents\visual studio 2015\Projects\FormAssistControl\FormAssistC
 c:\users\lai\documents\visual studio 2015\Projects\FormAssistControl\FormAssistControl\FormAssistControl.Android\bin\Debug\System.IO.Compression.dll.mdb
 c:\users\lai\documents\visual studio 2015\Projects\FormAssistControl\FormAssistControl\FormAssistControl.Android\obj\Debug\android\assets\SQLite-net.dll.mdb
 c:\users\lai\documents\visual studio 2015\Projects\FormAssistControl\FormAssistControl\FormAssistControl.Android\obj\Debug\android\assets\System.IO.Compression.dll.mdb
-c:\users\lai\documents\visual studio 2015\Projects\FormAssistControl\FormAssistControl\FormAssistControl.Android\obj\Debug\FormAssistControl.Android.dll.mdb
-c:\users\lai\documents\visual studio 2015\Projects\FormAssistControl\FormAssistControl\FormAssistControl.Android\bin\Debug\FormAssistControl.Android.dll.mdb
+C:\Users\Lai\Documents\Visual Studio 2015\Projects\FormAssistControl\FormAssistControl\FormAssistControl.Android\obj\Debug\FormAssistControl.Android.dll.mdb
+C:\Users\Lai\Documents\Visual Studio 2015\Projects\FormAssistControl\FormAssistControl\FormAssistControl.Android\bin\Debug\FormAssistControl.Android.dll.mdb

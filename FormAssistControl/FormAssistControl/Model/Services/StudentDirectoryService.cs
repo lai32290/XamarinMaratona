@@ -14,7 +14,7 @@ namespace FormAssistControl.Model.Services
         public static StudentDirectory LoadStudentDirectory()
         {
             DatabaseManager dbManager = new DatabaseManager();
-            ObservableCollection<Student> students = 
+            ObservableCollection<Student> students =
                 new ObservableCollection<Student>(dbManager.GetAllItems<Student>());
             StudentDirectory studentDirectory = new StudentDirectory();
 
